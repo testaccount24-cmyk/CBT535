@@ -1,0 +1,14 @@
+2025-04-04 11:19:04.762182 - Received CBT.V508.FILE535.PDS from FILE535.XMI 
+2025-04-04 11:19:04.763099 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:19:04.763241 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/$$NOTE01
+2025-04-04 11:19:04.763381 - Found $$README.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/$$README
+2025-04-04 11:19:04.763525 - Found #CCAT.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/#CCAT
+2025-04-04 11:19:04.763647 - Found @FILE535.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/@FILE535
+2025-04-04 11:19:04.763766 - Found ASSEMBLE.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/ASSEMBLE
+2025-04-04 11:19:04.763892 - Found ASSEMBLS.jcl (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/ASSEMBLS
+2025-04-04 11:19:04.764034 - Found CCAT.txt (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/CCAT
+2025-04-04 11:19:04.764150 - Found JCCAT.jcl (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/JCCAT
+2025-04-04 11:19:04.764266 - Found JCCATS.jcl (text/plain) in CBT.V508.FILE535.PDS, moved to PDS/JCCATS
+2025-04-04 11:19:04.764402 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE535.PDS, moved to PDS/LOADLIB.xmi
+2025-04-04 11:19:04.769001 - Received DERU.LINKLIB from LOADLIB.xmi 
+2025-04-04 11:19:04.769361 - Found CCAT.bin (application/octet-stream) in DERU.LINKLIB, moved to LOADLIB/CCAT
